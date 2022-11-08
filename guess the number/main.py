@@ -34,4 +34,4 @@ def comp_guess(x):
     print(f"yay! The computer guessed your number {guess}, correctly")
 
 
-comp_guess(100)
+human_guess(50)
